@@ -1,6 +1,6 @@
 .cache/
 logs/
-data/raw/
 *.duckdb
+*.duckdb.wal
 .env
 __pycache__/
