@@ -1,0 +1,11 @@
+openai
+duckdb
+pandas
+sqlglot
+pydantic
+pyyaml
+streamlit
+plotly
+diskcache
+tenacity
+httpx
